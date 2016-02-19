@@ -1,0 +1,7 @@
+#include<iostream.h>
+#include<conio.h>
+ void main()
+ {
+ cout<<"/t Hello World /t ";
+ getch();
+ }
